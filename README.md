@@ -1,9 +1,9 @@
 # LabGard
 ...
 
-# LabGuard Pro | Advanced Client-Server Terminal Monitor
+# LabGard Pro | Advanced Client-Server Terminal Monitor
 
-LabGuard Pro is a Python-based smart lab management system developed for real-time monitoring and control of computer labs. The system gathers and analyzes hardware performance data, presents insights through a centralized dashboard, and enables administrators to enforce application and web access policies across multiple devices. By integrating data collection, analysis, and automation, LabGuard Pro aligns with the principles of Artificial Intelligence & Data Science through intelligent decision support and resource optimization.
+LabGard Pro is a Python-based smart lab management system developed for real-time monitoring and control of computer labs. The system gathers and analyzes hardware performance data, presents insights through a centralized dashboard, and enables administrators to enforce application and web access policies across multiple devices. By integrating data collection, analysis, and automation, LabGuard Pro aligns with the principles of Artificial Intelligence & Data Science through intelligent decision support and resource optimization.
 
 ## 🚀 Key Features
 
